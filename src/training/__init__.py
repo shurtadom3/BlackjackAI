@@ -1,4 +1,5 @@
-"""Package initialization for training module"""
-from .trainer import Trainer
+"""
+Training package for BlackjackAI.
+"""
 
-__all__ = ['Trainer']
+from src.training.trainer import Trainer

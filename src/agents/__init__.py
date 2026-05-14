@@ -1,4 +1,6 @@
-"""Package initialization for agents module"""
-from .random_agent import RandomAgent
+"""
+Agents package for BlackjackAI.
+"""
 
-__all__ = ['RandomAgent']
+from src.agents.random_agent import RandomAgent
+from src.agents.q_learning_agent import QLearningAgent
