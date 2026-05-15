@@ -135,3 +135,5 @@ El agente solo ve lo mismo que vería un jugador humano normal: su propia suma y
 | Alyson Dahiana Henao | Agente Q-Learning y entrenamiento |
 | Samuel Arango | Evaluación y visualización |
 | Gabriel Atehortua| Interfaz, README y documentación |
+
+LA información requerida en el entregble se encuentra en la carpeta docs del proyecto. 
