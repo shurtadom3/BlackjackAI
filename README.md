@@ -74,6 +74,11 @@ Para correr los tests del entorno:
 ```bash
 python main.py
 ```
+o directamente en consola 
+```bash
+    python test/test_environment.py
+    python test/test_random_agent.py
+```
 
 Para entrenar directamente desde terminal:
 
@@ -126,7 +131,7 @@ El agente solo ve lo mismo que vería un jugador humano normal: su propia suma y
 
 | Estudiante | Parte |
 |---|---|
-| Estudiante 1 | Entorno y agente aleatorio |
-| Estudiante 2 | Agente Q-Learning y entrenamiento |
-| Estudiante 3 | Evaluación y visualización |
-| Estudiante 4 | Interfaz, README y documentación |
+| Sara Hurtado Metaute | Entorno y agente aleatorio |
+| Alyson Dahiana Henao | Agente Q-Learning y entrenamiento |
+| Samuel Arango | Evaluación y visualización |
+| Gabriel Atehortua| Interfaz, README y documentación |
